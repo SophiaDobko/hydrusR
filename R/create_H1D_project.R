@@ -14,7 +14,7 @@
 #' create.H1D.project(project.name = "testproj2", parent.dir = parent_dir, discription = NULL,
 #' SpaceUnit = "cm", TimeUnit = "days", PrintTimes = 1,
 #' processes = c(WaterFlow = T, SoluteTransport = F, RootWaterUptake = F,
-#' RootGrowth = F, Unsatchem = F, HP1 = F, EquillibriumAdsorption = F,
+#' RootGrowth = F, Unsatchem = F, HP1 = F, EquillibriumAdsorption = F),
 #' initial.cond = c(NumberOfSolutes = 0, InitialCondition = 0),
 #' geometry = c(ProfileDepth = 200, NumberOfNodes = 4,
 #'          ObservationNodes = 0, MaterialNumber = 1, SubregionNumber = 1))
